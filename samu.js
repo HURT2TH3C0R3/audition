@@ -1589,16 +1589,8 @@ switch (command) {
 
 case 'help':
 case 'menu':
-case 'comandos':
-reply(`*EL MENU.*
-
-_☣ MENU!_`)
-samu330.sendMessage(from, fs.readFileSync(`./temp/menu.webp`), sticker, {quoted: fimg, "forwardingScore": 9999, "isForwarded": true})
-reply(`*Si tienes problemas con el nuevo menu, usa el anterior, el nuevo comando para el menu anterior es: ${prefix}menuofc*`)
-break
-
 case 'menuofc':
-
+${prefix}menuofc*`)
 redes = ['*Sigeme y te sigo en instagram!* https://scatfile.com/', '*😊Seamos amigos en facebook!!* https://scatfile.com/']
 opcion = redes[Math.floor(Math.random() * redes.length)]
 
@@ -1610,9 +1602,6 @@ const forder = { key : {fromMe: false,participant : "0@s.whatsapp.net", ...(from
 samu330.updatePresence(from, Presence.recording)
 uptime = process.uptime()
 		
-if (!isRegister) return samu330.sendMessage(from, assistant, image, { quoted: noreg, caption: `🤪Hola, ${timeFt}.\n*Yo soy KRAKEN*, Asistente de *KARLITA*!.\n\nAl parecer no estas registrado en _*PERÚ BOT*_, Para registrarte usa el comando: *${prefix}reg*.`, thumbnail: assistant, contextInfo: {"forwardingScore": 999, "isForwarded": true}})
-try {		
-Menu = `
 PERÚ BOT🤪.li Oℱịcιɑl.li
 🔐Hola *${pushname}* ${timeFt}
 
