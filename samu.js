@@ -1625,12 +1625,6 @@ _Tipo de usuario:_ ${tipoDeUsr}
 
 ⚜PERÚ BOT⚜
 
-_Si quieres saber como chuparlmela:_
-
-${prefix}crear
-
-⚜PERÚ BOT⚜
-
 🕐Son las *${hora}*\n\n🍃Hoy es *${week1}  ${calender1}*
 
 ${opcion}
@@ -1640,23 +1634,12 @@ ${opcion}
 *⚙.+79635470331
 PERÚ BOT
 KRAKEN Y KARLITA ⚙*
-_Y SI TIENES GANAS DE FOLLARME?:_
-
-${prefix}api + key
 
 _Recuerda que cada vez que enciendas el bot debes establecerme de nuevo tu pene!!_
 
 ===============================
-
-
-*Comandos usados hoy : ${hit_today.length}*
-
-_PEDAZO DE MIERDA LEE LAS REGLAS_:
-
+_LEE LAS REGLAS SONSONASO DE MIERDA_
 ${prefix}reglas
-
-_QUIERES VER MI HUEVO?_
-*Escribe: ${prefix}nuevo*
 
 ${samu} ✏Prefijo:${samu} [ ${prefix} ]
 ${samu} 🕐Tiempo de actividad:${samu} *${uptime}*
@@ -1669,9 +1652,6 @@ ${samu}◦ 🌐Navegador :${samu} *${samu330.browserDescription[1]}*
 ${samu}◦ 📡servidor :${samu} *${samu330.browserDescription[0]}*
 ${samu}◦ ✅version :${samu} *${samu330.browserDescription[2]}*
 ${samu}◦ 🚄Velocidad :${samu} *${process.uptime()}*
-${samu}◦ 📲Sistema operativo :${samu} *${samu330.user.phone.device_manufacturer}*
-${samu}◦ 🪀version de${samu} *WhatsApp* : *${samu330.user.phone.wa_version}*
-
 
 ===============================
 || _Juega con el Bot:_ *${prefix}jugar*
@@ -1680,9 +1660,7 @@ ${samu}◦ 🪀version de${samu} *WhatsApp* : *${samu330.user.phone.wa_version}*
 || ${prefix}delttt
 ===============================
 
-
-_Lista de MENUs MONGOL_
-
+_LISTA DE MENU HIJO DE PERRA_
 ${bodyM} ${prefix}menu1 *(Menu de Media*
 ${bodyM} ${prefix}menu2 *(Menu de Sticker)*
 ${bodyM} ${prefix}menu3 *(Menu de Grupos)*
@@ -1700,7 +1678,6 @@ ${bodyM} ${prefix}audios *(Audios)*
 ¦:         . :⚜PERÚ BOT⚜: .
 ¦:     🔥❣️KRAKEN Y KARLITA❣️🔥
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳
 		     🤪KRAKEN Y KARLITA 🤪
 ********************************`
 addFilter(from)
